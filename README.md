@@ -1,7 +1,7 @@
 # GAS_DETECTOR
 Gas Detection project I made while attending NAIT
 
-This includes the PCB and circuit design I made using KiCad EDA, as well as the software to run the system using C in the Microchip Studio IDE by Microchip Technology. Credit to Simon Walker for the I2C and ADC libraries. 
+This includes the PCB and circuit design I made using KiCad EDA, I don't believe I can upload the software at the moment. 
 
 Here's how it works:
 
