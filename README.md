@@ -1,13 +1,13 @@
 # GAS_DETECTOR
 Gas Detection project I made while attending NAIT
 
-This includes the PCB and circuit design I made using KiCad EDA, as well as the software to run the system using C in the Microchip Studio IDE by Microchip Technology. Credit to Simon Walker for some of the libraries.
+This includes the PCB and circuit design I made using KiCad EDA, as well as the software to run the system using C in the Microchip Studio IDE by Microchip Technology. Credit to Simon Walker for the I2C and ADC libraries. 
 
 Here's how it works:
 
 -Using a gas sensor to detect smoke/gas in PPM (parts per million, standard for measuring the volume of a gas)
 
--Once the sensor detects a certain amount of gas (about 200PPM, and displayed on an I2C supported LCD), an “alarm” activates (piezo buzzer)
+-Once the sensor detects a certain amount of gas (displayed on an I2C supported LCD), an “alarm” activates (piezo buzzer). The volume of gas is not accurate I believe, as I had problems with determining the calculations
 
 -The LCD will display the current volume of gas detected by the gas sensor in PPM
 
