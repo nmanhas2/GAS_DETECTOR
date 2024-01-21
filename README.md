@@ -26,3 +26,14 @@ Involves the following components:
 -Piezo Buzzer for the alarm (PS1240P02BT) https://www.digikey.ca/en/products/detail/tdk-corporation/PS1240P02BT/935924, can run on 3V minimum up to a maximum of 30Vp
 
 -A push button
+
+Here is the circuit schematic (may be difficult to see):
+
+![image](https://github.com/nmanhas2/GAS_DETECTOR_DESIGN/assets/113201793/4d6293af-fc67-49a6-bfb9-311038c4cac8)
+
+
+Here is the PCB design:
+
+![image](https://github.com/nmanhas2/GAS_DETECTOR_DESIGN/assets/113201793/d9020972-6aba-4c30-ae94-d529bed3877f)
+
+![image](https://github.com/nmanhas2/GAS_DETECTOR_DESIGN/assets/113201793/cbf0e0ba-f6ce-47f5-9875-cf4a56da33f7)
