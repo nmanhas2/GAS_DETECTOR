@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "BH9VPC")(type "KiCad")(uri "C:/Users/manha/OneDrive/Desktop/NOTES/TERM5/CMPE2750/BH9VPC")(options "")(descr ""))
+  (lib (name "MyLib")(type "KiCad")(uri "C:/Users/nmanhas1/Documents/CMPE2750/MyLib.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/manha/OneDrive/Desktop/NOTES/TERM5/CMPE2750/108-0047-EVX/KiCad.pretty")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/Users/manha/OneDrive/Desktop/NOTES/TERM5/CMPE2750/108-0047-EVX/KiCad/SamacSys_Parts.pretty")(options "")(descr ""))
+)
