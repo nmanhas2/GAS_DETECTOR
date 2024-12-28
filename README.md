@@ -1,7 +1,7 @@
 # GAS_DETECTOR
 Gas Detection project I made while attending NAIT
 
-This includes the PCB and circuit design I made using KiCad EDA, I don't believe I can upload the software at the moment. 
+This includes the PCB and circuit design I made using KiCad EDA. 
 
 Here's how it works:
 
